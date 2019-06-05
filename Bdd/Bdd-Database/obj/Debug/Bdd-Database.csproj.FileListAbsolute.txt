@@ -1,0 +1,10 @@
+C:\GIT\pronim-iss\Phoenix\Bdd\Bdd-Database\bin\Debug\Bdd-Database.dll
+C:\GIT\pronim-iss\Phoenix\Bdd\Bdd-Database\bin\Debug\Bdd-Database.pdb
+C:\GIT\pronim-iss\Phoenix\Bdd\Bdd-Database\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\GIT\pronim-iss\Phoenix\Bdd\Bdd-Database\bin\Debug\WebDriver.dll
+C:\GIT\pronim-iss\Phoenix\Bdd\Bdd-Database\bin\Debug\WebDriver.xml
+C:\GIT\pronim-iss\Phoenix\Bdd\Bdd-Database\obj\Debug\Bdd-Database.csproj.CoreCompileInputs.cache
+C:\GIT\pronim-iss\Phoenix\Bdd\Bdd-Database\obj\Debug\Bdd-Database.csproj.CopyComplete
+C:\GIT\pronim-iss\Phoenix\Bdd\Bdd-Database\obj\Debug\Bdd-Database.dll
+C:\GIT\pronim-iss\Phoenix\Bdd\Bdd-Database\obj\Debug\Bdd-Database.pdb
+C:\GIT\pronim-iss\Phoenix\Bdd\Bdd-Database\obj\Debug\Bdd-Database.csprojAssemblyReference.cache
